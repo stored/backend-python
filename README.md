@@ -73,3 +73,5 @@ Por	isso, solicitamos a criação	de	um	repositório	que	seja compartilhado	com	
 Nós	solicitamos	que	você trabalhe no desenvolvimento desse sistema	sozinho	e não	divulgue a solução	desse problema	pela internet.
 
 Bom desafio!
+
+![Luck](https://media.tenor.com/images/e026ce9d75219c8d82277ddf0558ee2b/tenor.gif)
