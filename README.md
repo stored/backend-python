@@ -5,7 +5,7 @@ Alguns requisitos:
 - Use Git;
 - Procure fazer "micro commits" que são muitos commits com menos código isso nos ajuda a compreender a sua lógica;
 - Nos pergunte sobre qualquer dúvida que venha a surgir durante o desenvolvimento;
-- Não procure soluções na internet;
+- Documente detalhadamente quaisquer referencias/ferramentas que vc pesquisar;
 - Crie um repositório público e nos passe o link para acompanharmos o desenvolvimento.
 
 
@@ -44,7 +44,7 @@ Exemplo da "Malha SP"
 - A	C	20
 - C	D	30
 - B	E	50
-- D	E 30
+- D	E 	30
 
 No sistema, é importante que se tenha um endpoint para listar as rotas e as cidades de uma determinada malha.
 Com as suas malhas já definidas, vem o verdadeiro objetivo do sistema que é calcular o menor valor de uma entrega, como também o melhor caminho entre as rotas.
@@ -65,12 +65,12 @@ Voce está livre	para definir a melhor arquitetura e	tecnologias	para solucionar
 mas	não	se esqueça de contar sua motivação no arquivo README que deve acompanhar sua solução, junto	com	os detalhes de	como executar seu programa.
 Documentação e testes serão	avaliados também =).
 
-Lembre-se de que iremos	executar seu código	com	malhas beeemm mais complexas, por isso é importante	pensar em requisitos não funcionais	também!
+Lembre-se de que iremos	executar seu código com	malhas beeemm mais complexas, por isso é importante pensar em requisitos não funcionais também!
 
 Também gostariamos de acompanhar o desenvolvimento	da	sua	aplicação através do	código	fonte
-Por	isso, solicitamos a criação	de	um	repositório	que	seja compartilhado	com	a gente.
+Por isso, solicitamos a criação	de	um	repositório	que	seja compartilhado com	a gente.
 
-Nós	solicitamos	que	você trabalhe no desenvolvimento desse sistema	sozinho	e não	divulgue a solução	desse problema	pela internet.
+Nós solicitamos que você trabalhe no desenvolvimento desse sistema	sozinho	e não divulgue a solução	desse problema	pela internet.
 
 Bom desafio!
 
