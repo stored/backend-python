@@ -51,7 +51,6 @@ Com as suas malhas já definidas, vem o verdadeiro objetivo do sistema que é ca
 
 Um exemplo de requisição, seguindo o exemplo de "Malha SP"
 ----------------------------------------------------------
-	mapa SP
 	origem A
 	destino	D
 	autonomia 10
@@ -59,7 +58,7 @@ Um exemplo de requisição, seguindo o exemplo de "Malha SP"
 
 A resposta seria
 ----------------
-	resposta seria a rota ABD com 6,25 de custo
+	rota ABD com 6,25 de custo
 
 Voce está livre	para definir a melhor arquitetura e	tecnologias	para solucionar	este desafio,
 mas	não	se esqueça de contar sua motivação no arquivo README que deve acompanhar sua solução, junto	com	os detalhes de	como executar seu programa.
